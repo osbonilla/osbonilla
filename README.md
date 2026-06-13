@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Oldrin Santiago Bonilla Cáceres
 
-<!--
-**osbonilla/osbonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 **GIS & ArcGIS Developer** — Building spatial solutions and web maps with the ArcGIS ecosystem  
+⚙️ **Frontend** — Svelte · React  
+🦀 **Backend** — Rust · Python · Node.js  
+🤖 **Data Science** — Machine Learning · Deep Learning · Applied Statistics (R & Python)  
+🏗️ **Software Engineering** — Architecture, design patterns and development best practices  
+🚀 **DevOps / MLOps** — Pipelines, automation and model deployment
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building GIS solutions and ArcGIS-powered applications  
+- 🌱 Exploring MLOps and the intersection of spatial data and artificial intelligence  
+- 💬 Ask me about ArcGIS, data science, Svelte, Rust or applied statistics  
+- 📫 Reach me through GitHub  
+
+---
+
+> *"Passionate about data-driven problem solving — from spatial analysis to machine learning."*

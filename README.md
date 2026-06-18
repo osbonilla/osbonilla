@@ -125,9 +125,15 @@
 <div align="center">
   <br/>
   <p>
-    <a href="https://www.linkedin.com/in/osbonilla/">connect with me</a><br/><br/>
-    <a href="https://www.linkedin.com/in/osbonilla/" target="_blank">
+    <a href="https://www.linkedin.com/in/osbc/">connect with me</a><br/><br/>
+    <a href="https://www.linkedin.com/in/osbc/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>&nbsp;
+    <a href="https://www.instagram.com/santii_bcaceres/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>&nbsp;
+    <a href="https://www.greendataframe.com" target="_blank">
+      <img src="https://img.shields.io/badge/GreenDataFrame-2E7D32?style=for-the-badge&logo=leaflet&logoColor=white" alt="GreenDataFrame">
     </a>
   </p>
 </div>

@@ -117,7 +117,6 @@
 [![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=flat&logo=google&logoColor=white)](https://earthengine.google.com)&nbsp;
 [![Mapbox GL](https://img.shields.io/badge/Mapbox%20GL-000000?style=flat&logo=mapbox&logoColor=white)](https://www.mapbox.com)&nbsp;
 [![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)](https://leafletjs.com)&nbsp;
-[![Geostatistics](https://img.shields.io/badge/Geostatistics-4B8BBE?style=flat&logo=qgis&logoColor=white)](https://www.qgis.org)&nbsp;
 
 ---
 

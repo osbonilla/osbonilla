@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Oldrin Santiago Bonilla Cáceres
+## Hi there 👋 I'm Oldrin
 
 🌍 **GIS & ArcGIS Developer** — Building spatial solutions and web maps with the ArcGIS ecosystem  
 ⚙️ **Frontend** — Svelte · React  

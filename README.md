@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Data+Scientist;Machine+Learning+Engineer;MLOps+%26+DevOps+Practitioner;Computer+Vision+Specialist;GIS+%26+Spatial+Data+Expert;ArcGIS+%7C+Google+Earth+Engine;learn+%E2%9C%98+unlearn+%E2%9C%98+relearn" width="415" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Python+Developer;Data+Scientist;DevOps+%26+MLOps+Practitioner;Machine+Learning+Engineer;GIS+%26+Spatial+Data+Expert;learn+%E2%9C%98+unlearn+%E2%9C%98+relearn" width="415" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -15,20 +15,25 @@
 > root :~ whoami
 ```
 ```python
-> I am a Data Scientist and ML | DL Engineer 💻
-> Strong focus on Machine Learning, Deep Learning & Computer Vision 🔭
-> Working with MLOps & DevOps pipelines in production environments ⚙️
-> GIS specialist: ArcGIS Pro, Online & Google Earth Engine 🗺️
+> Python Developer · Data Scientist · ML Engineer 💻
+> Data Engineering, Pipelines & Big Data architectures 🔧
+> DevOps & MLOps in production environments ⚙️
+> Software Engineering & Data Analysis 📊
+> GIS specialist: ArcGIS Pro & Online 🗺️
 > Cloud: AWS · Google Cloud · Azure ☁️
 > Building and deploying AI Models end-to-end 🚀
 > Committed to lifelong learning 💖
 ```
 
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-<img src="https://img.shields.io/badge/Focus-MLOps-brightgreen" />
-<img src="https://img.shields.io/badge/Focus-DevOps-brightgreen" />
-<img src="https://img.shields.io/badge/Focus-ArcGIS-brightgreen" />
-<img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20Developer-05122A?style=flat-square&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Scientist-05122A?style=flat-square&logo=databricks&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MLOps-05122A?style=flat-square&logo=mlflow&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/DevOps-05122A?style=flat-square&logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/ML%20Engineer-05122A?style=flat-square&logo=pytorch&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Engineer-05122A?style=flat-square&logo=apacheairflow&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GIS%20Specialist-05122A?style=flat-square&logo=esri&logoColor=white" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -68,6 +73,14 @@
 
 ---
 
+#### Data Engineering & Big Data
+
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)&nbsp;
+![MageAI](https://img.shields.io/badge/MageAI-7C3AED?style=flat&logo=magic&logoColor=white)&nbsp;
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)&nbsp;
+
+---
+
 #### MLOps & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
@@ -83,6 +96,18 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)&nbsp;
+
+---
+
+#### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=flat&logo=surrealdb&logoColor=white)&nbsp;
+![GraphDB](https://img.shields.io/badge/GraphDB-FF6B35?style=flat&logo=neo4j&logoColor=white)&nbsp;
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F5A623?style=flat&logo=databricks&logoColor=white)&nbsp;
 
 ---
 

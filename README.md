@@ -9,28 +9,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<br/>
-<br/>
+<img align="left" src="https://raw.githubusercontent.com/osbonilla/osbonilla/main/yo.png" width="265" height="270" />
 
-<img align="left" src="https://raw.githubusercontent.com/osbonilla/osbonilla/main/yo.png" width="255" height="260" />
-
-<br/>
-
-### 👨‍💻 &nbsp;About Me
-
+```css
+> root :~ whoami
+```
 ```python
-name       = "Oldrin"
-role       = ["Python Developer", "Data Scientist", "ML Engineer"]
-focus      = ["MLOps & DevOps", "Data Engineering", "Computer Vision"]
-gis        = ["ArcGIS Pro & Online", "Google Earth Engine"]
-cloud      = ["AWS", "Google Cloud", "Azure"]
-currently  = "Building and deploying AI Models end-to-end 🚀"
-learning   = "always // lifelong learner 💖"
+> Python Developer · Data Scientist · ML Engineer 💻
+> Data Engineering, Pipelines & Big Data architectures 🔧
+> DevOps & MLOps in production environments ⚙️
+> Software Engineering & Data Analysis 📊
+> GIS specialist: ArcGIS Pro & Online 🗺️
+> Cloud: AWS · Google Cloud · Azure ☁️
+> Building and deploying AI Models end-to-end 🚀
+> Committed to lifelong learning 💖
 ```
 
-<br/>
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python%20Developer-05122A?style=flat-square&logo=python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Data%20Scientist-05122A?style=flat-square&logo=databricks&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MLOps-05122A?style=flat-square&logo=mlflow&logoColor=white" />&nbsp;
@@ -39,10 +34,6 @@ learning   = "always // lifelong learner 💖"
   <img src="https://img.shields.io/badge/Data%20Engineer-05122A?style=flat-square&logo=apacheairflow&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/GIS%20Specialist-05122A?style=flat-square&logo=esri&logoColor=white" />
 </p>
-
-<br/>
-<br/>
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -126,7 +117,6 @@ learning   = "always // lifelong learner 💖"
 [![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=flat&logo=google&logoColor=white)](https://earthengine.google.com)&nbsp;
 [![Mapbox GL](https://img.shields.io/badge/Mapbox%20GL-000000?style=flat&logo=mapbox&logoColor=white)](https://www.mapbox.com)&nbsp;
 [![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)](https://leafletjs.com)&nbsp;
-[![Geostatistics](https://img.shields.io/badge/Geostatistics-4B8BBE?style=flat&logo=qgis&logoColor=white)](https://www.qgis.org)&nbsp;
 
 ---
 

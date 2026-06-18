@@ -1,19 +1,115 @@
-## Hi there 👋 I'm Oldrin
+<h1 align="center">
+  Hi, I'm <a href="https://github.com/osbonilla">osbonilla</a>
+  <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px" />
+</h1>
 
-🌍 **GIS & ArcGIS Developer** — Building spatial solutions and web maps with the ArcGIS ecosystem  
-⚙️ **Frontend** — Svelte · React  
-🦀 **Backend** — Rust · Python · Node.js  
-🤖 **Data Science** — Machine Learning · Deep Learning · Applied Statistics (R & Python)  
-🏗️ **Software Engineering** — Architecture, design patterns and development best practices  
-🚀 **DevOps / MLOps** — Pipelines, automation and model deployment
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Data+Scientist;Machine+Learning+Engineer;MLOps+%26+DevOps;Computer+Vision+Specialist;GIS+%26+Spatial+Data+Expert;learn+%E2%9C%98+unlearn+%E2%9C%98+relearn" width="415" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<img align="left" src="https://raw.githubusercontent.com/osbonilla/osbonilla/main/yo.png" width="265" height="270" />
+
+```css
+> root :~ whoami
+```
+```python
+> I am a Data Scientist and ML | DL Engineer 💻
+> Strong focus on Machine Learning, Deep Learning & Computer Vision 🔭
+> Working with MLOps & DevOps pipelines in production environments ⚙️
+> GIS specialist: ArcGIS, Mapbox GL, Leaflet & spatial analysis 🗺️
+> Building and deploying AI Models end-to-end 🚀
+> Committed to lifelong learning 💖
+```
+
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-MLOps-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-GIS-brightgreen" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+<table width="100%">
+<tr>
+  <td><h3 align="center">⚡ SKILLS</h3></td>
+  <td><h3 align="center">📊 STATS</h3></td>
+</tr>
+<tr>
+  <td width="55%">
+
+#### Languages
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ---
 
-- 🔭 Currently building GIS solutions and ArcGIS-powered applications  
-- 🌱 Exploring MLOps and the intersection of spatial data and artificial intelligence  
-- 💬 Ask me about ArcGIS, data science, Svelte, Rust or applied statistics  
-- 📫 Reach me through GitHub  
+#### Data Science | ML | DL | AI
+
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)&nbsp;
 
 ---
 
-> *"Passionate about data-driven problem solving — from spatial analysis to machine learning."*
+#### MLOps & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![SSH](https://img.shields.io/badge/SSH-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+
+---
+
+#### GIS & Spatial Technologies
+
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=esri&logoColor=white)&nbsp;
+![Mapbox GL](https://img.shields.io/badge/Mapbox%20GL-000000?style=flat&logo=mapbox&logoColor=white)&nbsp;
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)&nbsp;
+
+---
+
+#### Tools & Technologies
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)&nbsp;
+![Colab](https://img.shields.io/badge/Colab-00b56a?style=flat&logo=google-colab&logoColor=white)&nbsp;
+
+  </td>
+  <td>
+
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=osbonilla&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=osbonilla&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br/><br/>
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osbonilla&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,tex,css">
+</p>
+
+  </td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<div align="center">
+  <br/>
+  <p>
+    <a href="https://www.linkedin.com/in/osbonilla/">connect with me</a><br/><br/>
+    <a href="https://www.linkedin.com/in/osbonilla/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+</div>

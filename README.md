@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <a href="https://github.com/osbonilla">osbonilla</a>
+  Hi, I'm Oldrin
   <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px" />
 </h1>
 
@@ -18,7 +18,7 @@
 > I am a Data Scientist and ML | DL Engineer 💻
 > Strong focus on Machine Learning, Deep Learning & Computer Vision 🔭
 > Working with MLOps & DevOps pipelines in production environments ⚙️
-> GIS specialist: ArcGIS, Mapbox GL, Leaflet & spatial analysis 🗺️
+> GIS specialist: ArcGIS Pro & Online 🗺️
 > Building and deploying AI Models end-to-end 🚀
 > Committed to lifelong learning 💖
 ```

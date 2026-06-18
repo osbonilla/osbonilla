@@ -19,7 +19,7 @@
 > Data Engineering, Pipelines & Big Data architectures 🔧
 > DevOps & MLOps in production environments ⚙️
 > Software Engineering & Data Analysis 📊
-> GIS specialist: ArcGIS Pro & Online 🗺️
+> GIS specialist: ArcGIS Systems 🗺️
 > Cloud: AWS · Google Cloud · Azure ☁️
 > Building and deploying AI Models end-to-end 🚀
 > Committed to lifelong learning 💖

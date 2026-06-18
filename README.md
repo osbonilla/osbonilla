@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Data+Scientist;Machine+Learning+Engineer;MLOps+%26+DevOps;Computer+Vision+Specialist;GIS+%26+Spatial+Data+Expert;learn+%E2%9C%98+unlearn+%E2%9C%98+relearn" width="415" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Data+Scientist;Machine+Learning+Engineer;MLOps+%26+DevOps+Practitioner;Computer+Vision+Specialist;GIS+%26+Spatial+Data+Expert;ArcGIS+%7C+Google+Earth+Engine;learn+%E2%9C%98+unlearn+%E2%9C%98+relearn" width="415" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -18,16 +18,17 @@
 > I am a Data Scientist and ML | DL Engineer 💻
 > Strong focus on Machine Learning, Deep Learning & Computer Vision 🔭
 > Working with MLOps & DevOps pipelines in production environments ⚙️
-> GIS specialist: ArcGIS Pro & Online 🗺️
+> GIS specialist: ArcGIS Pro, Online & Google Earth Engine 🗺️
+> Cloud: AWS · Google Cloud · Azure ☁️
 > Building and deploying AI Models end-to-end 🚀
 > Committed to lifelong learning 💖
 ```
 
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-<img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />
-<img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-MLOps-brightgreen" />
-<img src="https://img.shields.io/badge/Focus-GIS-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-DevOps-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-ArcGIS-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-Deep%20Learning-brightgreen" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -47,6 +48,13 @@
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
+---
+
+#### Frontend Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00)&nbsp;
 
 ---
 
@@ -70,11 +78,21 @@
 
 ---
 
+#### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)&nbsp;
+
+---
+
 #### GIS & Spatial Technologies
 
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logo=esri&logoColor=white)&nbsp;
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=flat&logo=google&logoColor=white)&nbsp;
 ![Mapbox GL](https://img.shields.io/badge/Mapbox%20GL-000000?style=flat&logo=mapbox&logoColor=white)&nbsp;
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)&nbsp;
+![Geostatistics](https://img.shields.io/badge/Geostatistics-4B8BBE?style=flat&logo=qgis&logoColor=white)&nbsp;
 
 ---
 
